@@ -14,6 +14,8 @@ end
   sleep(0.5)
   
   beats_left_in_song = beats_left_in_song - 1
+  
+  puts "You have #{beats_left_in_song} beats left!"
    
   
   
