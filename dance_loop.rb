@@ -10,7 +10,6 @@
   sleep(1)
 end
 
-
 # loop do 
  # puts "Right foot back"
  # puts "Left foot back"
