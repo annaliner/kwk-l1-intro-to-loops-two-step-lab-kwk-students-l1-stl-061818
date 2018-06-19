@@ -17,10 +17,6 @@ end
   
   puts "You have #{beats_left_in_song} beats left!"
    
-  
 end
-
 end 
-
-
 dance 
