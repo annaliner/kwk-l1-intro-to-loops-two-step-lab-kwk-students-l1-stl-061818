@@ -4,6 +4,7 @@ loop do
   puts "Left foot back"
   puts "Right foot in"
   puts "Stop"
+  break 
 end 
 
 
