@@ -1,12 +1,10 @@
 
 3.times do 
-  puts 
-
-
-
-
-
-
+  puts "Right foot back"
+  puts "Left foot back"
+  puts "Right foot back"
+  puts "Stop"
+end
 
 
 # loop do 
