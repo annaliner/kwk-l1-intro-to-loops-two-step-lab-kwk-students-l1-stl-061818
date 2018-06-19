@@ -3,7 +3,8 @@ def dance
   
 loop do   
   if beats_left_in_song == 0 
-    
+  break 
+  
    
   
   
