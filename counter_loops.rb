@@ -17,6 +17,7 @@ loop do
   puts "you've completed #{moves_completed}! NICE."
   
   end
-  
-  
   end
+  
+  cha_cha_slide
+  
